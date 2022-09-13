@@ -2,11 +2,11 @@
 
 namespace Open_Lab_01._00
 {
-    class Program
+    class Oliverko
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Appslab!");
         }
     }
 }
